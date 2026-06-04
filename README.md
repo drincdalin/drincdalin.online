@@ -23,7 +23,7 @@ i do a bunch of random stuff between school and competitions, including:
 3.  **Ceea ce ne face umani** - A short film I made about human emotions vs cold technology. Did the script, editing, production, all of it.
 4.  **Tic-Tac-Toe** - A super basic C++ CLI game because my school curriculum loves C++.
 
-## ✉️ talk to me
+## talk to me
 If you find a bug or want to collab on a competition project:
 *   **Insta:** [@drincdalin](https://www.instagram.com/drincdalin/)
 *   **Email:** dalin.drinc.contact@gmail.com
