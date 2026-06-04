@@ -14,8 +14,7 @@ i tried to keep the code pretty simple (mostly because i'm still learning and CS
 ## file structure
 *   `index.html` -> the main page (has my bio, skills, and a sneak peek of projects)
 *   `projects.html` -> the page with the full list of things i've actually built or worked on
-*   `style.css` -> a very long stylesheet. i used a `?v=2` cache buster because my browser refused to update the styling changes i kept making 😭
-
+*   `style.css` -> a very long stylesheet.
 ##  featured projects mentioned (for now)
 i do a bunch of random stuff between school and competitions, including:
 1.  **OptiMeal** - A smart pantry manager web/mobile app built with React Native/JS and Firebase. It has an AI assistant named RamsAI to stop people from wasting food.
