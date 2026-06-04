@@ -16,7 +16,7 @@ i tried to keep the code pretty simple (mostly because i'm still learning and CS
 *   `projects.html` -> the page with the full list of things i've actually built or worked on
 *   `style.css` -> a very long stylesheet.
 ##  featured projects mentioned (for now)
-i do a bunch of random stuff between school and competitions, including:
+i do a bunch of random stuff:
 1.  **OptiMeal** - A smart pantry manager web/mobile app built with React Native/JS and Firebase. It has an AI assistant named RamsAI to stop people from wasting food.
 2.  **HYDRON** - A mechanical/electrical engineering project using electrolysis to turn water into fuel. (Yes, I do hardware too, not just code).
 3.  **Ceea ce ne face umani** - A short film I made about human emotions vs cold technology. Did the script, editing, production, all of it.
