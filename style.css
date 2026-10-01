@@ -546,6 +546,144 @@ footer{
 }
 
 /*telefon*/
+
+@media (max-width: 600px){
+
+    body{
+        width: 100%;
+        overflow-x: hidden;
+    }
+
+    nav{
+        gap: .7em;
+        padding: 8px 14px;
+        font-size: 1em;
+        max-width: calc(100% - 20px);
+    }
+
+    .section{
+        padding: 0 20px;
+    }
+
+    #about, #projects{
+        min-height: auto;
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+
+    #hero{
+        min-height: 100svh;
+    }
+
+    #hero h1{
+        font-size: 30vw;
+        text-align: center;
+        line-height: 1;
+    }
+
+    #under{
+        gap: 0;
+        width: 100%;
+        justify-content: space-between;
+        font-size: .75em;
+    }
+
+    #linie, #contact, footer{
+        min-width: 0;
+        max-width: 100%;
+        width: 100%;
+    }
+
+    #linie{
+        max-width: 92%;
+    }
+
+
+    #contact{
+        padding: 0px 20px 0 20px;
+    }
+
+    #about h4, #projects h4, #contact h4{
+        font-size: 5em;
+    }
+
+    #about p{
+        font-size: 1.1em;
+    }
+
+    #descriere{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    #portret{
+        height: auto;
+        width: 100%;
+        max-width: 320px;
+        margin: 20px 0;
+    }
+
+    #linieskil{
+        width: 0em;
+    }
+
+    #skills{
+        flex-wrap: wrap;
+    }
+
+    #gridproj{
+        min-width: 0;
+        max-width: 100%;
+        width: 100%;
+        gap: 16px;
+    }
+
+    .projectCard{
+        width: 78vw;
+        padding: 20px;
+    }
+
+    hero hr{
+        min-width: 100vw;
+        flex-shrink: 0;
+    }
+
+    #msec{
+        flex-wrap: wrap;
+        gap: .6em;
+        margin-top: 10px;
+    }
+
+    #mail{
+        font-size: 1.2em;
+        word-break: break-all;
+    }
+
+    #also{
+        font-size: 1.1em;
+        margin-left: 2px;
+    }
+
+    #socials button{
+        font-size: 2em;
+        margin-left: 5px;
+        padding: 10px 6px;
+    }
+
+    footer{
+        max-height: none;
+        min-height: auto;
+    }
+
+    #ftcont{
+        width: 100%;
+        gap: 1em;
+        justify-content: space-between;
+        padding: 20px;
+        font-size: .8em;
+    }
+}
+
 @media (max-width: 768px){
 
     body{
@@ -623,7 +761,7 @@ footer{
     }
 
     #linieskil{
-        width: 24.8em;
+        width: 100%;
     }
 
     #skills{
